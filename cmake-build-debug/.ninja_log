@@ -1,5 +1,7 @@
 # ninja log v5
-0	53	1685125916736733630	CMakeFiles/LearnCprogramming.dir/main.c.o	3775d800e99c7ad2
-53	75	1685125916758733628	LearnCprogramming	6f6239e730bf8cb9
-0	91	1685126601109681091	CMakeFiles/LearnCprogramming.dir/main.c.o	3775d800e99c7ad2
 91	115	1685126601133681089	LearnCprogramming	6f6239e730bf8cb9
+0	91	1685126601109681091	CMakeFiles/LearnCprogramming.dir/main.c.o	3775d800e99c7ad2
+0	52	1685127517841713047	CMakeFiles/LearnCprogramming.dir/main.c.o	26d10147c8c1f719
+52	67	1685127517857712945	LearnCprogramming	6f6239e730bf8cb9
+0	36	1685127744872157604	CMakeFiles/LearnCprogramming.dir/main.c.o	26d10147c8c1f719
+36	51	1685127744888157491	LearnCprogramming	6f6239e730bf8cb9

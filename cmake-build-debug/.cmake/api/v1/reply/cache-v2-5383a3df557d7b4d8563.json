@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/sir_pier/projects/LearnCprogramming/cmake-build-debug"
+			"value" : "/media/petersiri/1e907497-4b88-4311-a2ac-4f2544b794a0/@home/sir_pier/projects/LearnCprogramming/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -115,7 +115,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/opt/clion/bin/cmake/linux/x64/bin/cmake"
+			"value" : "/home/petersiri/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/linux/x64/bin/cmake"
 		},
 		{
 			"name" : "CMAKE_CPACK_COMMAND",
@@ -127,7 +127,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/opt/clion/bin/cmake/linux/x64/bin/cpack"
+			"value" : "/home/petersiri/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/linux/x64/bin/cpack"
 		},
 		{
 			"name" : "CMAKE_CTEST_COMMAND",
@@ -139,7 +139,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/opt/clion/bin/cmake/linux/x64/bin/ctest"
+			"value" : "/home/petersiri/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/linux/x64/bin/ctest"
 		},
 		{
 			"name" : "CMAKE_C_COMPILER",
@@ -171,7 +171,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "/usr/bin/gcc-ar"
+			"value" : "/usr/bin/gcc-ar-11"
 		},
 		{
 			"name" : "CMAKE_C_COMPILER_RANLIB",
@@ -187,7 +187,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "/usr/bin/gcc-ranlib"
+			"value" : "/usr/bin/gcc-ranlib-11"
 		},
 		{
 			"name" : "CMAKE_C_FLAGS",
@@ -415,7 +415,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/sir_pier/projects/LearnCprogramming/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/media/petersiri/1e907497-4b88-4311-a2ac-4f2544b794a0/@home/sir_pier/projects/LearnCprogramming/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -475,7 +475,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/sir_pier/projects/LearnCprogramming"
+			"value" : "/media/petersiri/1e907497-4b88-4311-a2ac-4f2544b794a0/@home/sir_pier/projects/LearnCprogramming"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -499,7 +499,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "0"
+			"value" : "1"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -527,7 +527,7 @@
 				}
 			],
 			"type" : "UNINITIALIZED",
-			"value" : "/opt/clion/bin/ninja/linux/x64/ninja"
+			"value" : "/home/petersiri/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/ninja/linux/x64/ninja"
 		},
 		{
 			"name" : "CMAKE_MODULE_LINKER_FLAGS",
@@ -759,7 +759,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/opt/clion/bin/cmake/linux/x64/share/cmake-3.25"
+			"value" : "/home/petersiri/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/linux/x64/share/cmake-3.25"
 		},
 		{
 			"name" : "CMAKE_SHARED_LINKER_FLAGS",
@@ -1007,7 +1007,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/sir_pier/projects/LearnCprogramming/cmake-build-debug"
+			"value" : "/media/petersiri/1e907497-4b88-4311-a2ac-4f2544b794a0/@home/sir_pier/projects/LearnCprogramming/cmake-build-debug"
 		},
 		{
 			"name" : "LearnCprogramming_IS_TOP_LEVEL",
@@ -1031,7 +1031,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/sir_pier/projects/LearnCprogramming"
+			"value" : "/media/petersiri/1e907497-4b88-4311-a2ac-4f2544b794a0/@home/sir_pier/projects/LearnCprogramming"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",
