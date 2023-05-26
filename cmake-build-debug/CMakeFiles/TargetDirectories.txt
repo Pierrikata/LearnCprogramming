@@ -1,0 +1,3 @@
+/home/sir_pier/projects/LearnCprogramming/cmake-build-debug/CMakeFiles/LearnCprogramming.dir
+/home/sir_pier/projects/LearnCprogramming/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sir_pier/projects/LearnCprogramming/cmake-build-debug/CMakeFiles/rebuild_cache.dir
