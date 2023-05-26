@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/LearnCprogramming.dir/main.c.o -o LearnCprogramming 

@@ -1,4 +1,4 @@
-# Install script for directory: /media/petersiri/1e907497-4b88-4311-a2ac-4f2544b794a0/@home/sir_pier/projects/LearnCprogramming
+# Install script for directory: /home/petersiri/CLionProjects/LearnCprogramming
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/media/petersiri/1e907497-4b88-4311-a2ac-4f2544b794a0/@home/sir_pier/projects/LearnCprogramming/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/petersiri/CLionProjects/LearnCprogramming/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

@@ -371,7 +371,7 @@ int main()
     // learnSwitch();
     // convertTemp();
     // weHavaCalcul8or();
-    logicalOps();
+    // logicalOps();
 
     return 0;
 }
