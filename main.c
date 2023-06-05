@@ -4,6 +4,8 @@
 #include <math.h>
 #include <ctype.h>
 
+void birthDay(char name[4], int age);
+
 void learnCommentsAndEscapeSequences(){
     // This is a comment
     /*
@@ -341,7 +343,7 @@ void weHavaCalcul8or() {
     }
 }
 
-void logicalOps()
+void logicalOpAND()
 {
     // logical operators = && (AND) checks if two or more conditions are true
 
@@ -353,6 +355,58 @@ void logicalOps()
 
     else
         printf("\nThe weather is bad!");
+}
+
+void logicalOpOR() {
+    // logical operators = || (OR) checks if at least one codition is true
+
+    float temp = 25;
+
+    if(temp <= 0 || temp >= 30){
+        printf("\nThe weather is bad!");
+    }
+    else{
+        printf("\nThe weather is good!");
+    }
+}
+
+void logicalOpNOT() {
+    // logical operators = ! (NOT) reverses the state of a condition
+
+    bool sunny = false;
+    bool subscribed = true;
+
+    if(!sunny){
+        printf("\nIt's cloudy outside!");
+    }
+    else{
+        printf("\nIt's sunny outside!");
+    }
+}
+void birthday()
+{
+    printf("\nHappy birthday to you!");
+    printf("\nHappy birthday to you!");
+    printf("\nHappy birthday dear...YOU!");
+    printf("\nHappy birthday to you!\n");
+}
+
+void c_arguments() {
+    char name[] = "Bro";
+    int age = 21;
+
+    birthDay(name, age);
+}
+
+void birthDay(char name[4], int age)
+{
+    printf("\nHappy birthday dear %s!", name);
+    printf("\nYou are %d years old!", age);
+}
+
+double square(double x) {
+    double result = x * x;
+    return result;
 }
 
 int main()
@@ -371,7 +425,13 @@ int main()
     // learnSwitch();
     // convertTemp();
     // weHavaCalcul8or();
-    // logicalOps();
+    // logicalOpAND();
+    // logicalOpOR();
+    // logicalOpNOT();
+    // birthday();
+    // c_arguments();
+    double x = square(3.14);
+    printf("%lf", x);
 
     return 0;
 }
